@@ -1,0 +1,26 @@
+.pageStyling {
+    width: vw;
+    margin-left: 60px;
+}
+.tableContainer {
+    margin: 20px;
+  }
+  
+  .tableHeaderCell {
+    font-weight: bold;
+  }
+  
+  .rowHighlight {
+    background-color: #f7f7f7;
+  }
+  
+  .rowStatusDone {
+    color: green;
+  }
+  
+  .rowStatusPending {
+    color: red;
+  }
+  TableCell{
+    textAlign: "center",
+  }
